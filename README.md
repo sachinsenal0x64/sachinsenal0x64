@@ -2,8 +2,7 @@
 https://github.com/denvercoder1/readme-typing-svg -->
 ![](https://github.com/sachinsenal0x64/picx-images-hosting/raw/master/oddinpay.3uux19999v.webp)
 
-- ### 💳 🛒 0% Fees until product-market fit – Try now!
-👉  [Here](https://oddinpay.com/signup)
+- ### 💳 🛒 0% Fees until product-market fit – Try now! 👉  [Here](https://oddinpay.com/signup)
 
 <br>
 
