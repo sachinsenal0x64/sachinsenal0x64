@@ -9,7 +9,6 @@ https://github.com/denvercoder1/readme-typing-svg -->
 ### 🛠️ Useful Stuffs
 
 - Tools - [Here](https://github.com/sachinsenal0x64?tab=stars)
-- APIs - [![Statuspage Badge](https://img.shields.io/badge/Tidal%20Status-315691?logo=statuspage&logoColor=fff&style=flat)](https://status.401658.xyz)
 - Guides - [![Index Page](https://img.shields.io/badge/index%20page-pink?style=flat&logo=starship&logoColor=black)](https://index.401658.xyz)
 </div>
 
