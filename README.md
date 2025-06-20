@@ -8,7 +8,8 @@ https://github.com/denvercoder1/readme-typing-svg -->
 
 ### 🛠️ Useful Stuffs
 
-- Tools - [Here](https://github.com/sachinsenal0x64?tab=stars)
+- [![](https://img.shields.io/badge/Tools-pink?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
+ 
 
 </div>
 
