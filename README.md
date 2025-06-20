@@ -2,7 +2,7 @@
 https://github.com/denvercoder1/readme-typing-svg -->
 ![](https://cdn.oddinpay.com/oddin-payments.webp)
 
-- ### 🛒 0% Fees until product-market fit – Try now! 👉  [Here](https://oddinpay.com/signup)
+- ### 🛒 0% Fees until product-market fit – Try now! 👉  [![](https://img.shields.io/badge/O%20Pay-pink?style=flat&logo=starship&logoColor=black)](https://oddinpay.com)
 
 <br>
 
