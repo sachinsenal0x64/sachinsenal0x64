@@ -1,5 +1,3 @@
-<!-- Wave 
-https://github.com/denvercoder1/readme-typing-svg -->
 ![](https://cdn.oddinpay.com/cover-oddin.webp)
 
 > [!TIP]
