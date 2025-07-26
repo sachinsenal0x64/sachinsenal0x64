@@ -3,7 +3,7 @@ https://github.com/denvercoder1/readme-typing-svg -->
 ![](https://cdn.oddinpay.com/cover-oddin.webp)
 
 > [!TIP]
-> 👉 Start selling. Accept payments in minutes [oddinpay.com](https://oddinpay.com)
+> ### 👉 Start selling. Accept payments in minutes [oddinpay.com](https://oddinpay.com)
 
 
 <br>
