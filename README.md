@@ -2,7 +2,7 @@
 https://github.com/denvercoder1/readme-typing-svg -->
 ![](https://cdn.oddinpay.com/cover-oddin.webp)
 
-- ### 💳🛒 0% Fees until product-market fit – Get paid quickly 👉  [oddinpay.com](https://oddinpay.com)
+- ### Get paid quickly 👉  [oddinpay.com](https://oddinpay.com)
 
 <br>
 
