@@ -10,7 +10,7 @@
 > [!NOTE]
 > Things you might find useful
 > 
-> [![](https://img.shields.io/badge/resources-pink?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
+> [![](https://img.shields.io/badge/resources-lightblue?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
  
 
 </div>
