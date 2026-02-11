@@ -7,9 +7,10 @@
 
 <br>
 
-### 🛠️ Useful Stuffs
-
-- [![](https://img.shields.io/badge/Tools-pink?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
+> [!NOTE]
+> Things you might find useful
+> 
+> [![](https://img.shields.io/badge/resources-pink?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
  
 
 </div>
