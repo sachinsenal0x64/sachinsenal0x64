@@ -19,7 +19,7 @@
 
 ### 💕 Community
 
-> 🍻 Join the community:  <a href="https://discord.gg/EbfftZ5Dd4" alt="sachinsenal0x64">Discord</a>
+> 🍻 Join the community: <a href="https://discord.gg/EbfftZ5Dd4" alt="sachinsenal0x64">Discord</a>
 [![](https://cdn.statically.io/gh/sachinsenal0x64/picx-images-hosting@master/discord.72y8nlaw5mdc.webp)](https://discord.gg/EbfftZ5Dd4)
 
 
