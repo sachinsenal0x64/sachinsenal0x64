@@ -2,7 +2,7 @@
 > #### Go from 0 to $1
 > Accept payments in minutes [oddinpay.com](https://oddinpay.com)
 > 
-![](https://cdn.oddinpay.com/accept-payments.png)
+<a href="https://oddinpay.com">![](https://cdn.oddinpay.com/accept-payments.png)</a>
 
 
 <br>
