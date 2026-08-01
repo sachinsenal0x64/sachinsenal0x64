@@ -6,6 +6,15 @@
 
 <br>
 
+> [!TIP]
+> #### 5% cash back
+> Get hundreds of cash back offers [yayget.com](https://yayget.com)
+> 
+
+<a href="https://oddinpay.com">![](https://cdn.oddinpay.com/discover-shop.png)</a>
+
+<br>
+
 > [!NOTE]
 > Things you might find useful
 > 
