@@ -1,3 +1,5 @@
+<br>
+
 ### 💕 Community
 
 > 🍻 Join the community: <a href="https://discord.gg/EbfftZ5Dd4" alt="sachinsenal0x64">Discord</a>
