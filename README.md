@@ -4,7 +4,6 @@
 > 
 <a href="https://oddinpay.com">![](https://cdn.oddinpay.com/accept-payments.png)</a>
 
-
 <br>
 
 > [!NOTE]
@@ -12,7 +11,6 @@
 > 
 > [![](https://img.shields.io/badge/resources-lightblue?style=flat&logo=starship&logoColor=black)](https://github.com/sachinsenal0x64?tab=stars)
  
-
 </div>
 
 <br>
